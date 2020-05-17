@@ -1,0 +1,189 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	font-family: Avenir;
+	color: #333;
+}
+
+section {
+	background-color: #EEE;
+	height: 150%;
+}
+
+
+header	{
+	width: 100%;
+	height: 350px;
+}
+
+.sign-in {
+	width: 320px;
+	float: right;
+	margin-top: 80px;
+	font-size: 12px;
+}
+
+.sign-in p {
+	width: 170px;
+	display: inline-block;
+}
+
+.sign-in a {
+	text-decoration: none;
+	color: #206ac9;
+}
+
+.btn {
+	float: right;
+	margin: 10px 20px 0 0;
+}
+
+.sign-in-btn {
+	background-color: #206ac9;
+	display: flex;
+	width: 120px;
+	height: 40px;
+	border-radius: 5px;
+	color: white;
+	font-size: 13px;
+	align-items: center;
+	justify-content: center
+}
+
+.logo-container {
+	margin-top: -80px;
+}
+
+.intuit {
+	height: 500px;
+	z-index: 10;
+	display: block;
+	margin-left: 515px;
+
+}
+
+.form-wrapper {
+	background-color: white;
+	border: 1px solid #c6c7cc;
+	border-radius: 3px;
+	height: 700px;
+	width: 400px;
+	margin: auto;
+	position: relative;
+}
+
+h1 {
+	text-align: center;
+}
+
+.sub {
+	text-align: center;
+	display: block;
+	margin: auto;
+	font-size: 15px;
+}
+
+.learn {
+	display: block;
+	font-size: 10px;
+	text-decoration: none;
+	color: #206ac9;
+	text-align: center;
+
+}
+
+input {
+	display: block;
+	margin: auto;
+	width: 300px;
+	height: 30px;
+	border-radius: 3px;
+	background-color: white;
+	border-style: none;
+	border: 1px solid #C1C5C8;
+}
+
+label {
+	display: block;
+	width: 40%;
+	font-size: 15px;
+	margin: 30px 0 8px 50px;
+}
+
+.disclaimer {
+	display: block;
+	font-size: 10px;
+	margin-left: 50px;
+	margin-top: 3px;
+}
+
+.submit {
+	background-color: #206ac9;
+	display: flex;
+	margin: auto;
+	margin-top: 40px;
+	width: 300px;
+	height: 50px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	align-items: center;
+	justify-content: center
+}
+
+.lock {
+	height: 30px;
+}
+
+.description {
+	text-align: center;
+	color: #555;
+	font-style: italic;
+	font-size: 12px;
+	width: 250px;
+	margin: auto;
+	margin-top: 50px;
+	line-height: 20px;
+}
+
+.form-footer {
+	height: 55px;
+	width: 100%;
+	background-color: #EEE;
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+}
+
+.captcha {
+	margin: auto;
+	margin-top: ;
+	font-size: 10px;
+	font-style: normal;
+	width: 80%;
+}
+
+.captcha a {
+	text-decoration: none;
+	color: #206ac9;
+}
+
+.inline {
+	display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
